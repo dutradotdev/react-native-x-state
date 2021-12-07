@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-xstate",
+    "slug": "rn-xstate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-xstate"
+}
