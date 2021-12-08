@@ -53,3 +53,7 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Post files
+post.md
+DogMachine.png
